@@ -1,5 +1,5 @@
 package com.cognizant.repository;
 
-public class BookService{
+public class BookRepository{
 
 } 
